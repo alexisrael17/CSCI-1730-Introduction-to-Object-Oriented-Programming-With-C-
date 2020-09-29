@@ -1,0 +1,7 @@
+Filename: story.txt
+Total number of words = 2
+Average word length = 0 characters.
+Total number of word characters = 16
+Total number of punctuation characters = 2
+Shortest word length = 99999
+Longest word length = 0
